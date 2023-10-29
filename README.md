@@ -16,11 +16,11 @@ These are some of the skills and technologies I've mastered in web development:
 - CSS & Component Frameworks - Bootstrap, Vuetify & Tailwind.
 - Database - MariaDB version 10, MySQL, PostgreSQL, MongoDB.
 - DB Administration Tool - PHPMyAdmin version 5, HeidiSQL, PGAdmin and Mongo Cloud.
-- Version control (e.g., Git, GitHub)
-- Responsive web design
-- Cross-browser compatibility
-- Performance optimization
-- User experience (UX) design
+- Version control - Git, Github and Bitbucket.
+- Responsive web design.
+- Cross-browser compatibility.
+- Performance optimization.
+- User experience (UX) design.
 
 ## Portfolio
 [![Portfolio](https://img.shields.io/badge/Dhinesh_Kumar_Gnanasekar-orange?logo=Firebase)](https://dhinesh-kumar-gnanasekar.web.app/)
