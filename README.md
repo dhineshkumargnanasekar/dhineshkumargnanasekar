@@ -22,6 +22,9 @@ These are some of the skills and technologies I've mastered in web development:
 - Performance optimization
 - User experience (UX) design
 
+## Portfolio
+[![Portfolio](https://img.shields.io/badge/Dhinesh_Kumar_Gnanasekar-orange?logo=Firebase)](https://dhinesh-kumar-gnanasekar.web.app/)
+
 ## Contact
 
 You can reach out to me through the following channels:
@@ -30,9 +33,6 @@ You can reach out to me through the following channels:
 [![LinkedIn](https://img.shields.io/badge/dhineshkumargnanasekar-blue?logo=Linkedin)](http://linkedin.com/in/dhineshkumargnanasekar)\
 [![GitHub](https://img.shields.io/badge/dhineshkumargnanasekar_(Personal)-black?logo=Github)](https://github.com/dhineshkumargnanasekar)\
 [![GitHub Official](https://img.shields.io/badge/-dhineshkumar--g_(Official)-black?logo=Github)](https://github.com/dhineshkumar-g)
-
-## Portfolio
-[![Portfolio](https://img.shields.io/badge/Dhinesh_Kumar_Gnanasekar-orange?logo=Firebase)](https://dhinesh-kumar-gnanasekar.web.app/)
 
 Feel free to connect, collaborate, or get in touch for any web development opportunities or inquiries!
 
