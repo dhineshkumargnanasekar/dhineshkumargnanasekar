@@ -27,9 +27,13 @@ These are some of the skills and technologies I've mastered in web development:
 You can reach out to me through the following channels:
 
 [![Email](https://img.shields.io/badge/Email-dhineshkumar.gnanasekar@gmail.com-royalblue)](dhineshkumar.gnanasekar@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhineshkumargnanasekar-blue)](http://linkedin.com/in/dhineshkumargnanasekar)
+
 [![GitHub](https://img.shields.io/badge/GitHub-dhineshkumargnanasekar-darkgreen)](https://github.com/dhineshkumargnanasekar)
+
 [![GitHub Official](https://img.shields.io/badge/GitHub_Official-dhineshkumar--g-deepgreen)](https://github.com/dhineshkumar-g)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Dhinesh_Kumar_Gnanasekar-orange)](https://dhinesh-kumar-gnanasekar.web.app/)
 
 Feel free to connect, collaborate, or get in touch for any web development opportunities or inquiries!
